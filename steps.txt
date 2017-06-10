@@ -26,5 +26,5 @@ Click on "Stage Changed" button in the bottom
 
 Then click on "Commit" button in the bottom
 
-This click on "Push" button and it will open a popup - there we have to provide our git repositaty "https://github.com/RaviPrakash23/TestGit"  --- than click ok - and check at your repositaty files are added or not
+Then click on "Push" button and it will open a popup - there we have to provide our git repositaty "https://github.com/RaviPrakash23/TestGit"  --- than click ok - and check at your repositaty files are added or not
 

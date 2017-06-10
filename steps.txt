@@ -1,0 +1,30 @@
+$ git config --global user.name "raviprakash23@gmail.com"
+
+$ git clone https://github.com/RaviPrakash23/TestGit.git
+
+$ cd TestGit
+
+$ git add first.txt
+
+$ git status
+
+$ git commit -m "first commit" first.txt
+
+$ git push -u origin master
+
+
+--------------------------------------------------
+
+by using "Git GUI here"  --- committing the files
+
+
+add or save files in our project folder
+
+right click on desk top and click "Git GUI here"
+
+Click on "Stage Changed" button in the bottom
+
+Then click on "Commit" button in the bottom
+
+This click on "Push" button and it will open a popup - there we have to provide our git repositaty "https://github.com/RaviPrakash23/TestGit"  --- than click ok - and check at your repositaty files are added or not
+
